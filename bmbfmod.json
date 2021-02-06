@@ -1,0 +1,23 @@
+{
+  "id": "instafailaccuracy",
+  "name": "InstaFailAccuracy",
+  "version": "1.0.0",
+  "author": "gabriella ✨#6859",
+  "description": [
+    "You will fail if you dip below a certain accuracy!"
+  ],
+  "category": "Gameplay",
+  "gameVersion": "1.13.2",
+  "platform": "Quest",
+  "components": [
+    {
+      "type": "HookMod",
+      "installAction": {
+        "installLibraryFile": "libinstafailaccuracy.so"
+      },
+      "uninstallAction": {
+        "removeLibraryFile": "libinstafailaccuracy.so"
+      }
+    }
+  ]
+}
