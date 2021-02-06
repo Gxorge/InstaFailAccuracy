@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "gabriella ✨#6859",
   "description": [
-    "You will fail if you dip below a certain accuracy!"
+    "If you go below a certain accuracy, you fail!"
   ],
   "category": "Gameplay",
   "gameVersion": "1.13.2",

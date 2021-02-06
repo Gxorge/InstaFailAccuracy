@@ -1,6 +1,6 @@
 # InstaFailAccuracy
 
-You will fail if you dip below a certain accuracy!
+If you go below a certain accuracy, you fail!
 
 ## Credits
 
