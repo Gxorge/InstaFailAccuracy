@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/IsGabriellaCurious/InstaFailAccuracy/blob/master/cover-small.png" alt="InstaFail Accuracy" /> <br>
-  <b>InstaFail Accuracy</b></br>
+  <b>v1.0.0</b></br>
   If you go below a certain accuracy, you fail!
 </p>
 
