@@ -2,6 +2,8 @@
   "id": "instafailaccuracy",
   "name": "InstaFailAccuracy",
   "version": "1.0.0",
+  "icon": "cover.png",
+  "coverImageFilename": "cover.png",
   "author": "gabriella ✨#6859",
   "description": [
     "If you go below a certain accuracy, you fail!"
