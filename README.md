@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/IsGabriellaCurious/BTSYeeter/blob/master/cover-small.png" alt="InstaFail Accuracy" /> <br>
+  <img src="https://github.com/IsGabriellaCurious/InstaFailAccuracy/blob/master/cover-small.png" alt="InstaFail Accuracy" /> <br>
   <b>InstaFail Accuracy</b></br>
   If you go below a certain accuracy, you fail!
 </p>
