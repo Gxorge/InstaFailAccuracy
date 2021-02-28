@@ -1,3 +1,5 @@
+![Team City](http://ssh.centurion.pw:8111/app/rest/builds/aggregated/strob:(buildType:(project:(id:InstaFailAccuracy)))/statusIcon.svg)
+<br>
 <p align="center">
   <img src="https://github.com/IsGabriellaCurious/InstaFailAccuracy/blob/master/cover-small.png" alt="InstaFail Accuracy" /> <br>
   <b>v1.0.0</b></br>
