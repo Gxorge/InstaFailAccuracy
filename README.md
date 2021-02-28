@@ -1,4 +1,4 @@
-![Team City](https://teamcity.gabriella.moe/app/rest/builds/aggregated/strob:(buildType:(project:(id:InstaFailAccuracy)))/statusIcon.svg)
+[![Build status](https://teamcity.gabriella.moe/guestAuth/app/rest/builds/buildType:(id:InstaFailAccuracy_Build)/statusIcon.svg)](https://teamcity.gabriella.moe/viewType.html?buildTypeId=InstaFailAccuracy_Build)
 <br>
 <p align="center">
   <img src="https://github.com/IsGabriellaCurious/InstaFailAccuracy/blob/master/cover-small.png" alt="InstaFail Accuracy" /> <br>
